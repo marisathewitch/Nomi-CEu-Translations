@@ -780,7 +780,7 @@ nomifactory.quest.normal.db.222.title=
 nomifactory.quest.normal.db.223.title=
 
 # db 228 of mode normal
-nomifactory.quest.normal.db.228.title=
+nomifactory.quest.normal.db.228.title=Посек
 
 # db 229 of mode normal
 nomifactory.quest.normal.db.229.title=
@@ -792,7 +792,7 @@ nomifactory.quest.normal.db.231.title=
 nomifactory.quest.normal.db.232.title=
 
 # db 236 of mode normal
-nomifactory.quest.normal.db.236.title=
+nomifactory.quest.normal.db.236.title=§2Транзистор
 
 # db 237 of mode normal
 nomifactory.quest.normal.db.237.title=
@@ -837,7 +837,7 @@ nomifactory.quest.normal.db.251.title=
 nomifactory.quest.normal.db.252.title=
 
 # db 253 of mode normal
-nomifactory.quest.normal.db.253.title=
+nomifactory.quest.normal.db.253.title=Иридий
 
 # db 254 of mode normal
 nomifactory.quest.normal.db.254.title=
@@ -864,7 +864,7 @@ nomifactory.quest.normal.db.264.title=
 nomifactory.quest.normal.db.265.title=
 
 # db 267 of mode normal
-nomifactory.quest.normal.db.267.title=
+nomifactory.quest.normal.db.267.title=§2Радон
 
 # db 268 of mode normal
 nomifactory.quest.normal.db.268.title=
@@ -970,7 +970,7 @@ nomifactory.quest.normal.db.317.title=
 nomifactory.quest.normal.db.318.title=
 
 # db 319 of mode normal
-nomifactory.quest.normal.db.319.title=
+nomifactory.quest.normal.db.319.title=Нескончаемая добыча
 nomifactory.quest.normal.db.319.desc=
 
 # db 320 of mode normal
@@ -1013,7 +1013,7 @@ nomifactory.quest.normal.db.341.title=
 nomifactory.quest.normal.db.342.title=
 
 # db 344 of mode normal
-nomifactory.quest.normal.db.344.title=
+nomifactory.quest.normal.db.344.title=Усилитель
 
 # db 345 of mode normal
 nomifactory.quest.normal.db.345.title=
@@ -1057,7 +1057,7 @@ nomifactory.quest.normal.db.368.title=
 nomifactory.quest.normal.db.368.desc=
 
 # db 370 of mode normal
-nomifactory.quest.normal.db.370.title=
+nomifactory.quest.normal.db.370.title=Древесный уголь
 nomifactory.quest.normal.db.370.desc=
 
 # db 371 of mode normal
@@ -4172,7 +4172,7 @@ nomifactory.quest.normal.db.240.desc=
 nomifactory.quest.normal.db.233.title=
 
 # db 234 of mode normal
-nomifactory.quest.normal.db.234.title=
+nomifactory.quest.normal.db.234.title=§2Барий
 
 # db 235 of mode normal
 nomifactory.quest.normal.db.235.title=
@@ -4193,7 +4193,7 @@ nomifactory.quest.normal.db.264.desc=
 nomifactory.quest.normal.db.258.title=
 
 # db 263 of mode normal
-nomifactory.quest.normal.db.263.title=
+nomifactory.quest.normal.db.263.title=Индий
 nomifactory.quest.normal.db.257.desc=
 nomifactory.quest.normal.db.271.desc=
 nomifactory.quest.normal.db.272.desc=
