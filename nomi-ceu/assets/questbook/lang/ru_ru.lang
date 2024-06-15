@@ -365,7 +365,7 @@ nomifactory.quest.normal.db.3.title=§2Основы
 nomifactory.quest.normal.db.4.title=Запас железа
 
 # db 5 of mode normal
-nomifactory.quest.normal.db.5.title=Шахтерские молоты
+nomifactory.quest.normal.db.5.title=Рудные молоты
 
 # db 6 of mode normal
 nomifactory.quest.normal.db.6.title=§2Больше материалов
@@ -5655,7 +5655,7 @@ nomifactory.quest.normal.db.545.desc=
 nomifactory.quest.normal.db.549.title=
 nomifactory.quest.normal.db.500.desc=
 nomifactory.quest.normal.db.501.desc=
-nomifactory.quest.normal.db.5.desc=§aШахтерские молоты§r предлагают относительно дешевый способ гораздо быстрее разрабатывать территории. Они быстро добывают блоки в 3х3 (только если вы не приседаете).§2Шахтерские молоты имеются в GTCEu нативно! Ты можешь сделать их из любого GT материала.§r%n%nВы получите бесплатно 4 Алмазных шахтерских молота, и вы всегда можете починить их, используя наковальню и несколько алмазов.
+nomifactory.quest.normal.db.5.desc=§aРудные молоты§r предлагают относительно дешевый способ гораздо быстрее разрабатывать территории. Они быстро добывают блоки в 3х3 (только если вы не приседаете).§2Рудные молоты имеются в GTCEu с самого начала! Ты можешь сделать их из любого GT материала.§r%n%nВы получите бесплатно 4 Алмазных рудных молота, и вы всегда можете починить их, используя наковальню и несколько алмазов.
 nomifactory.quest.normal.db.8.desc=
 
 # db 8 of mode normal
