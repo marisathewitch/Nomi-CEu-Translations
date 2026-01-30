@@ -131,7 +131,6 @@ config.nomilabs.advanced.server_side_methods=Server Side ONLY Methods
 config.nomilabs.advanced.server_welcome_name=Server Welcome Name
 config.nomilabs.advanced.mode_check_nomi_ceu=Mode Check Nomi-CEu Link
 config.nomilabs.advanced.binomial_threshold=Binomial Logic Threshold
-config.nomilabs.advanced.default_mipmap=Default Mipmap Level
 config.nomilabs.advanced.disable_grs_container=Disabled GrS Containers
 
 config.nomilabs.advanced.tiers=Quest Tier Detector Settings
@@ -281,16 +280,16 @@ nomilabs.gui.dummy_muffler=Muffler hatches no longer generate ashes to improve p
 fluid.uranium233=Uranium 233
 fluid.plutonium2=Plutonium
 
-fluid.moltenempoweredrestonia=Molten Empowered Restonia Crystal
-fluid.moltenempoweredpalis=Molten Empowered Palis Crystal
-fluid.moltenempoweredenori=Molten Empowered Enori Crystal
-fluid.moltenempowereddiamatine=Molten Empowered Diamatine Crystal
-fluid.moltenempoweredemeradic=Molten Empowered Emeradic Crystal
-fluid.moltenempoweredvoid=Molten Empowered Void Crystal
+fluid.moltenempoweredrestonia=Liquid Empowered Restonia Crystal
+fluid.moltenempoweredpalis=Liquid Empowered Palis Crystal
+fluid.moltenempoweredenori=Liquid Empowered Enori Crystal
+fluid.moltenempowereddiamatine=Liquid Empowered Diamatine Crystal
+fluid.moltenempoweredemeradic=Liquid Empowered Emeradic Crystal
+fluid.moltenempoweredvoid=Liquid Empowered Void Crystal
 
 fluid.elementalreduction=Elemental Reduction Fluid
 fluid.tough_alloy=Tough Alloy
-fluid.moltendarksoularium=Molten Dark Soularium
+fluid.moltendarksoularium=Liquid Dark Soularium
 
 # Data Fixers
 nomilabs.fixer.intro.1=This world must be remapped.
