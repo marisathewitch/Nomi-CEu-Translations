@@ -2536,7 +2536,7 @@ nomifactory.quest.normal.db.834.desc=§o注意：该任务可接受任何超级�
 
 # db 835 of mode normal
 nomifactory.quest.normal.db.835.title=§2石油裂化机
-nomifactory.quest.normal.db.835.desc=§2石油裂化机让你从裂解有机物中获得更高的收益。%n%n在GTCEu中，许多有机物提供了重度裂解或轻度裂解的配方，每一种都给予不同比例的蒸馏物。§r
+nomifactory.quest.normal.db.835.desc=§2石油裂化机让你从裂解有机物中获得更高的收益。%n%n在GTCEu中，许多有机物提供了重度裂解或轻度裂解、氢裂解或蒸汽裂解的配方，每一种都给予不同比例的蒸馏物。§r
 
 # db 836 of mode normal
 nomifactory.quest.normal.db.836.title=§2MV搅拌机
@@ -5254,7 +5254,7 @@ nomifactory.quest.expert.db.680.desc=现在你已经拥有了核裂变的所有�
 
 # db 681 of mode expert
 nomifactory.quest.expert.db.681.title=§2聚爆压缩机
-nomifactory.quest.expert.db.681.desc=§a聚爆压缩机§r就像一个使用爆炸而不是水的高压釜。它是将大多数宝石粉变成宝石的唯一方法。%n%n注意，对于一些配方，比如§6磷灰石粉到磷灰石§r，在§3高压釜§r里用§9蒸馏水§r效率更高。%n%n它对处理§5万象尘埃§r也将是至关重要的。%n%n除了控制器和外壳外，你还需要一个 §eLV§r 或更好的§6输入总线§r、§6输出总线§r和§6能源仓§r。%n%n§2如果需要，你可以将其直接升级为目前与基础多方块相比没有任何改进的电力聚爆压缩机。
+nomifactory.quest.expert.db.681.desc=§a聚爆压缩机§r就像一个使用爆炸而不是水的高压釜。它是将大多数宝石粉变成宝石的唯一方法。%n%n注意，对于一些配方，比如§6磷灰石粉到磷灰石§r，在§3高压釜§r里用§9蒸馏水§r效率更高。%n%n它对处理§5万象尘§r也将是至关重要的。%n%n除了控制器和外壳外，你还需要一个§eLV§r或更好的§6输入总线§r、§6输出总线§r和§6能源仓§r。%n%n§2如果需要，你可以将其直接升级为目前与基础多方块相比没有任何改进的电力聚爆压缩机。§r
 
 # db 687 of mode expert
 nomifactory.quest.expert.db.687.title=§2无限水
@@ -5354,7 +5354,7 @@ nomifactory.quest.expert.db.754.desc=在你去月球旅行之前，你要设置�
 
 # db 755 of mode expert
 nomifactory.quest.expert.db.755.title=小帮手
-nomifactory.quest.expert.db.755.desc=§o注意：任务列表中列出的交换小帮手是可选的，其目的是“值得了解”。这个整合包有§b建筑小帮手§r。%n%n这些设备可以帮助你建筑，替换方块，破坏大量区域，甚至复制粘贴区域。不过你需要在你的物品栏中放置你计划粘贴的方块；它不会无中生有地制造它们。%n%n还需要注意的是，它不会与方块实体兼容，所以它几乎只适用于简单的方块（而不是机器类的方块）。%n%n本模组中一个非常酷的功能是您可以使用任何小工具§dshift右键单击§r§a一个容器§r（如果您使用§6复制粘贴小工具§r来执行此操作，则它必须处于§ePaster§r模式），小帮手将§d从容器中取出物品§r，将小帮手“连接”到容器。%n%n例如，如果您按住Shift键并右键单击装满圆石的箱子，小帮手将使用该箱子中的圆石来放置方块。%n%n默认情况下，配置GUI被绑定到§6G§r。%n%n§2交换小工具被锁定到专家模式中的IV等级。因此，它被添加为可选任务。
+nomifactory.quest.expert.db.755.desc=§o注意：任务列表中列出的交换小帮手是可选的，因为它并非必须，只是值得了解。§r%n%n这个整合包有§b建筑小帮手§r。%n%n这些设备可以帮助你建筑，替换方块，破坏大量区域，甚至复制粘贴区域。不过你需要在你的物品栏中放置你计划粘贴的方块；它不会无中生有地制造它们。%n%n还需要注意的是，它不会与方块实体兼容，所以它几乎只适用于简单的方块（而不是机器类的方块）。%n%n本模组中一个非常酷的功能是您可以使用任何小工具§dshift右键单击§r§a一个容器§r（如果您使用§6复制粘贴小工具§r来执行此操作，则它必须处于§ePaster§r模式），小帮手将§d从容器中取出物品§r，将小帮手“连接”到容器。%n%n例如，如果您按住Shift键并右键单击装满圆石的箱子，小帮手将使用该箱子中的圆石来放置方块。%n%n默认情况下，配置GUI被绑定到§6G§r。%n%n§2交换小工具被锁定到专家模式中的IV等级。因此，它被添加为可选任务。§r
 
 # db 756 of mode expert
 nomifactory.quest.expert.db.756.title=塔兰金属
@@ -5462,7 +5462,7 @@ nomifactory.quest.expert.db.784.desc=这些是§3应用能源2§r用于传输网
 
 # db 785 of mode expert
 nomifactory.quest.expert.db.785.title=§2新型线缆涂层
-nomifactory.quest.expert.db.785.desc=§o注意：此任务接受硅橡胶或丁苯橡胶。到目前为止，§9橡胶§r已经足够用于制作线缆，但你很快就会发现，这种基础橡胶不能承受超过 §2EV 的电压§r。更高质量的橡胶对绝缘高等级线缆是必要的。%n%n有两种更好的橡胶，你最终都会用到。§e它们也可用更少的流体绝缘低压线缆§r！%n%n§2丁苯橡胶（SBR）和硅橡胶（SiR）都可以包裹任意级别的导线。§r然而，丁苯橡胶需要你可能还没有的石油化工设施，而且在你制造游戏后期组件之前不是强制性的。另一方面，硅橡胶可以方便地由你已经熟悉的化学物制成。通过现在的设置，你就不必在以后改变你的线缆涂层材料了！%n%n要制造硅橡胶，你需要用几种方法之一制造出§6聚二甲基硅氧烷粉§r，然后将其与§6硫§r在§3化学反应釜§r中混合。然后你可以在§3组装机§r中用它来涂抹线缆。%n%n§2要制造丁苯橡胶，你需要用几种方法之一制造生丁苯橡胶粉，然后在化学反应釜中与硫混合。这比硅橡胶产生更多的流体，同时也是一种更有效的涂抹线缆的方法。
+nomifactory.quest.expert.db.785.desc=§o注意：此任务接受硅橡胶或丁苯橡胶。§r%n%n到目前为止，§9橡胶§r已经足够用于制作线缆，但你很快就会发现，这种基础橡胶不能承受超过 §2EV 的电压§r。更高质量的橡胶对绝缘高等级线缆是必要的。%n%n有两种更好的橡胶，你最终都会用到。§e它们也可用更少的流体绝缘低压线缆§r！%n%n§2丁苯橡胶（SBR）和硅橡胶（SiR）都可以包裹任意级别的导线。§r然而，丁苯橡胶需要你可能还没有的石油化工设施，而且在你制造游戏后期组件之前不是强制性的。另一方面，硅橡胶可以方便地由你已经熟悉的化学物制成。通过现在的设置，你就不必在以后改变你的线缆涂层材料了！%n%n要制造硅橡胶，你需要用几种方法之一制造出§6聚二甲基硅氧烷粉§r，然后将其与§6硫§r在§3化学反应釜§r中混合。然后你可以在§3组装机§r中用它来包裹线缆。%n%n§2要制造丁苯橡胶，你需要用几种方法之一制造生丁苯橡胶粉，然后在化学反应釜中与硫混合。这比硅橡胶产生更多的流体，同时也是一种更有效的包裹线缆的方法。§r
 
 # db 786 of mode expert
 nomifactory.quest.expert.db.786.title=快速建筑辅助工具
@@ -5526,7 +5526,7 @@ nomifactory.quest.expert.db.801.desc=§3热解炉§r可以制造比§9苯酚§r�
 
 # db 802 of mode expert
 nomifactory.quest.expert.db.802.title=§2核聚变线圈
-nomifactory.quest.expert.db.802.desc=§6核聚变线圈§r是§2不再是电力高炉的线圈材料，但它们被用于下一个聚变反应堆。
+nomifactory.quest.expert.db.802.desc=§6核聚变线圈§r是§2不再是电力高炉的线圈材料，但它们被用于下一个聚变反应堆。§r
 
 # db 803 of mode expert
 nomifactory.quest.expert.db.803.title=失落的城市和安家的位置
@@ -5606,7 +5606,7 @@ nomifactory.quest.expert.db.821.desc=§2过硫酸钠§r和§2三氯化铁§r被�
 
 # db 822 of mode expert
 nomifactory.quest.expert.db.822.title=§2优质电路板
-nomifactory.quest.expert.db.822.desc=§2酚醛基板在用于电路生产之前需要用银制成电路板。%n%n过硫酸钠和三氯化铁现在很难搞到，但在制作电路板时使用它们会使所需的银量减少4倍。
+nomifactory.quest.expert.db.822.desc=§2酚醛基板在用于电路生产之前需要用银制成电路板。%n%n过硫酸钠和三氯化铁现在很难搞到，但在制作电路板时使用它们会使所需的银量减少4倍。§r
 
 # db 823 of mode expert
 nomifactory.quest.expert.db.823.title=§2筛选器
@@ -5614,7 +5614,7 @@ nomifactory.quest.expert.db.823.desc=§2这个任务同时接受LV和MV筛选器
 
 # db 824 of mode expert
 nomifactory.quest.expert.db.824.title=§2电感器
-nomifactory.quest.expert.db.824.desc=§2小线圈的继承者，电感器是你需要的另一个电路元件。%n%n为了获得最佳成果，请使用镍锌铁氧体和退火铜来制作这些材料。%n%n但是，根据你首次构建的体系，你可能不需要在SMD版本上制造许多基础的版本。
+nomifactory.quest.expert.db.824.desc=§2小线圈的继承者——电感是你需要的另一个电路元件。%n%n为了获得最佳成果，请使用镍锌铁氧体和退火铜来制作这些材料。%n%n但是，根据你首次构建的体系，你可能不需要在使用贴片电感之前制作大量的基础电感。§r
 
 # db 825 of mode expert
 nomifactory.quest.expert.db.825.title=§2聚四氟乙烯
@@ -5638,11 +5638,11 @@ nomifactory.quest.expert.db.829.desc=一种非常有用的升级卡，可用于�
 
 # db 830 of mode expert
 nomifactory.quest.expert.db.830.title=HV组装机
-nomifactory.quest.expert.db.830.desc=§2组装机的下一个级别。这个可以做相当多的好东西——检查一下周围的任务。
+nomifactory.quest.expert.db.830.desc=§2组装机的下一个级别。这个可以做相当多的好东西——检查一下周围的任务。§r
 
 # db 831 of mode expert
 nomifactory.quest.expert.db.831.title=§2无限水覆盖板
-nomifactory.quest.expert.db.831.desc=§2一个更紧凑的无限水源。将此作为一个覆盖板放在任何格雷科技机器上，它将每秒插入16桶的水。
+nomifactory.quest.expert.db.831.desc=§2一个更紧凑的无限水源。将此作为一个覆盖板放在任何格雷科技机器上，它将每秒插入16桶的水。§r
 
 # db 832 of mode expert
 nomifactory.quest.expert.db.832.title=§2末影流体连接覆盖板
@@ -5658,11 +5658,11 @@ nomifactory.quest.expert.db.834.desc=§o注意：该任务可接受任何超级�
 
 # db 835 of mode expert
 nomifactory.quest.expert.db.835.title=§2石油裂化机
-nomifactory.quest.expert.db.835.desc=§2石油裂化机让你从裂解有机物质中获得更高的收益。%n%n在GTCEu中，许多有机物质提供了重度裂解或轻度裂解的选择，每一种都给予不同比例的蒸馏物。
+nomifactory.quest.expert.db.835.desc=§2石油裂化机让你从裂解有机物中获得更高的收益。%n%n在GTCEu中，许多有机物提供了重度裂解或轻度裂解的配方，每一种都给予不同比例的蒸馏物。§r
 
 # db 836 of mode expert
 nomifactory.quest.expert.db.836.title=§2MV搅拌机
-nomifactory.quest.expert.db.836.desc=§2在GTCEu中，更高级别的粉混合物需要更高级别的搅拌机来混合。制造钒钢和不锈钢需要MV搅拌机。%n%n在这个任务之后不会有更多的搅拌机任务。在制作更高级别的粉混合物时要记住这一点。
+nomifactory.quest.expert.db.836.desc=§2在GTCEu中，更高级别的粉混合物需要更高级别的搅拌机来混合。制造钒钢和不锈钢需要MV搅拌机。%n%n在这个任务之后不会有更多的搅拌机任务。在制作更高级别的粉混合物时要记住这一点。§r
 
 # db 837 of mode expert
 nomifactory.quest.expert.db.837.title=§2钒钢
@@ -5670,7 +5670,7 @@ nomifactory.quest.expert.db.837.desc=§2一点点钒钢是用来推进发展的�
 
 # db 838 of mode expert
 nomifactory.quest.expert.db.838.title=§2片上系统
-nomifactory.quest.expert.db.838.desc=§2片上系统（SoC）可以用HV能量和荧石掺杂的晶片进行雕刻。这可以解锁EV电路组装机中的最终的一阶电路配方。%n%n最终的二阶电路配方需要一个IV电路组装机。
+nomifactory.quest.expert.db.838.desc=§2片上系统（SoC）可以用HV能量和荧石掺杂的晶片进行雕刻。这可以解锁EV电路组装机中的最终的一阶电路配方。%n%n最终的二阶电路配方需要一个IV电路组装机。§r
 
 # db 839 of mode expert
 nomifactory.quest.expert.db.839.title=§2晶体培养
@@ -5686,7 +5686,7 @@ nomifactory.quest.expert.db.841.desc=通过在你的高速钢-G中加入一些�
 
 # db 842 of mode expert
 nomifactory.quest.expert.db.842.title=§2神经处理单元
-nomifactory.quest.expert.db.842.desc=§2使用干细胞和更先进的材料来制造一个神经处理单元。这是在第一个湿件电路中使用的。
+nomifactory.quest.expert.db.842.desc=§2使用干细胞和更先进的材料来制造一个神经处理单元。这是在第一个湿件电路中使用的。§r
 
 # db 843 of mode expert
 nomifactory.quest.expert.db.843.title=§2硅岩处理
@@ -5710,7 +5710,7 @@ nomifactory.quest.expert.db.847.desc=§2从硅岩链获得的一种强重元素�
 
 # db 848 of mode expert
 nomifactory.quest.expert.db.848.title=§2硅岩合金
-nomifactory.quest.expert.db.848.desc=§2硅岩合金在GTCEu中不同，它需要硅岩、铱锇和凯金。
+nomifactory.quest.expert.db.848.desc=§2硅岩合金在GTCEu中不同，它需要硅岩、铱锇和凯金。§r
 
 # db 849 of mode expert
 nomifactory.quest.expert.db.849.title=§2IV组装机
