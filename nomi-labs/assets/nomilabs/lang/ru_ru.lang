@@ -693,3 +693,4 @@ metaitem.bronze_cell.name=Бронзовая капсула (%s)
 metaitem.gold_cell.name=Золотая капсула (%s)
 tooltip.nomilabs.metaitem.universal_circuit.3=§bМикросхема %s уровня§r
 config.nomilabs.mod_integration.disable_ae2_p2p_world_change=Отключить изменение типа туннеля Точка-Точка AE2 в мире
+nomilabs.gui.advanced_memory_card.filter.one=Показывать только одну точку-точку на одну сеть
